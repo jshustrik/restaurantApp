@@ -1,0 +1,3 @@
+Role,ID,Login,Password,MoneyAmount
+Admin,e9d25d04-c5c4-332d-b22b-8ec246a79f10,admin,8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918
+Visitor,071aaf06-ac49-3fb9-a3c7-5cc4e34808f7,meow,ccd758e72a8a8cb5f140bab26837f363908550f2558ed86d229ec9016fed49b9,1250
