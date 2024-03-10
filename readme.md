@@ -302,6 +302,6 @@ What type of statistic you want?
 
 Спасибо за внимание, скелетор вернётся позже с ещё одной домашкой!
 
-По всем вопросам, предложениям и замечаниям просьба писать в тг — [@jshustrik](https://t.me/jshustrik)
+Всё-таки, мне кажется, что я что-то забыла расписать про свой проект, поэтому по всем вопросам, предложениям и замечаниям просьба писать в тг — [@jshustrik](https://t.me/jshustrik)
 
 ![screenshot of sample](https://img.freepik.com/premium-photo/cat-computer_815088-234.jpg?size=338&ext=jpg&ga=GA1.1.1222169770.1702512000&semt=ais)
